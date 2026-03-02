@@ -114,6 +114,7 @@
 ## Regulation & Compliance
 
 - [SEC](https://www.sec.gov/) – U.S. securities regulation and filings.
+- [13F Insight](https://13finsight.com) – Platform for tracking and analyzing institutional investor 13F SEC filings and hedge fund portfolio changes.
 - [FINRA](https://www.finra.org/) – Regulatory authority for broker-dealers.
 - [FATF](https://www.fatf-gafi.org/) – Global anti-money laundering standards.
 - [KYC & AML Overview](https://www.investopedia.com/terms/k/knowyourclient.asp) – Customer due diligence frameworks.
