@@ -128,7 +128,10 @@
 
 ### Guides
 - [Aswath Damodaran Valuation](https://pages.stern.nyu.edu/~adamodar/) – Valuation theory and datasets.
+- [Buffett Letters Index](https://github.com/henu-wang/buffett-letters-index) – Comprehensive index of Warren Buffett's annual letters by topic.
 - [Financial Modeling Guide](https://corporatefinanceinstitute.com/resources/financial-modeling/) – Practical modeling techniques.
+- [Investment Psychology Checklist](https://github.com/henu-wang/investment-psychology-checklist) – Pre-investment psychological checklist based on Munger's cognitive biases.
+- [KeepRule](https://keeprule.com) – 1,300+ investment principles from 27 legendary investors organized by scenario, with AI-assisted learning.
 - [Behavioral Finance Overview](https://www.investopedia.com/terms/b/behavioralfinance.asp) – Psychology-driven finance concepts.
 
 ### Courses
