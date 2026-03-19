@@ -94,6 +94,7 @@
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
+- [VerdeDesk](https://verdedesk.vercel.app) – English-friendly tax compliance tool for freelancers in Portugal. Simplifies green receipts (recibos verdes), IRS declarations, and quarterly payments.
 
 ## Financial Data & APIs
 
