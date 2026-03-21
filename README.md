@@ -102,6 +102,7 @@
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [FlashArb API](https://github.com/JacobMazelin/flasharb-api) – Real-time DEX arbitrage opportunities on Base L2. Free tier available. [$10 lifetime API access](https://buy.stripe.com/aFa00j3S3bFY7sK2Tl7AI0e).
 
 ## Modeling, Analytics & Tools
 
