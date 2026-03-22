@@ -48,6 +48,7 @@
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
+- [KeepRule](https://keeprule.com) – AI-powered investment principles platform. Learn from Buffett, Munger, and other masters with AI chat mentors.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
 
 ## Corporate Finance
