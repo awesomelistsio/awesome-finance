@@ -47,6 +47,7 @@
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
+- [NationalTaxTools](https://nationaltaxtools.com) - Free, no-login tax calculators for understanding how federal tax policies like No Tax on Tips, No Tax on Overtime, and the SALT Cap affect personal income. Built by an IRS Authorized e-File Provider.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
 
