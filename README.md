@@ -98,6 +98,7 @@
 ## Financial Data & APIs
 
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
+- [Yahoo Finance Actor (Apify)](https://apify.com/architjn/yahoo-finance) – Scraper API for stock quotes, prices, and financial data from Yahoo Finance.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
