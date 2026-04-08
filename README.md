@@ -102,6 +102,7 @@
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [bitcoinbottom.app](https://bitcoinbottom.app) – Aggregates 25 on-chain Bitcoin signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, NUPL, ETF flows) into a daily cycle bottom probability score. Free, no signup, updated twice daily.
 
 ## Modeling, Analytics & Tools
 
@@ -110,6 +111,7 @@
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [btcdca.app](https://btcdca.app) – Bitcoin DCA calculator comparing signal-timed buying vs. always-buy with fair capital normalization (same total $ deployed, only timing differs). Free, no signup.
 
 ## Regulation & Compliance
 
