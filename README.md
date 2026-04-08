@@ -11,6 +11,7 @@
 
 ## Contents
 
+- [CalcFi](https://calcfi.app) - CalcFi - 500+ free financial calculators covering personal finance, real estate, investing, tax, crypto, and retirement planning.
 - [Foundations & References](#foundations--references)
 - [Financial Markets & Instruments](#financial-markets--instruments)
 - [Personal Finance](#personal-finance)
