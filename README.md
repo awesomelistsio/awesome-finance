@@ -102,6 +102,7 @@
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [13F Insight](https://13finsight.com/) – AI-powered 13F analysis platform for tracking hedge fund moves, concentration shifts, manager buy/sell changes, and filing-season alerts.
 
 ## Modeling, Analytics & Tools
 
