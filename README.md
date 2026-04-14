@@ -110,6 +110,7 @@
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [13F Insight](https://13finsight.com/) – Institutional holdings research platform for analyzing SEC 13F filings, manager portfolio changes, and conviction shifts.
 
 ## Regulation & Compliance
 
