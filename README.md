@@ -102,6 +102,7 @@
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [The Stock Radar](https://thestockradar.com) – Daily multi-language stock analysis covering 6 markets (US, Korea, Japan, Taiwan, India, Germany) with technical indicators, sector rotation, earnings recaps, and weekly research reports.
 
 ## Modeling, Analytics & Tools
 
