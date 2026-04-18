@@ -102,6 +102,7 @@
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [FXMacroData](https://fxmacrodata.com/) – API and MCP server for macroeconomic announcements, release calendars, FX, commodities, COT, and bond yields across 18 currencies.
 
 ## Modeling, Analytics & Tools
 
