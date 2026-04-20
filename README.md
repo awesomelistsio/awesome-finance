@@ -49,6 +49,10 @@
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Paycheck Calculator (thicket.sh)](https://pay.thicket.sh/) – Free paycheck, raise, freelance-rate, and cost-of-living calculators for US workers.
+- [Mortgage Calculator (thicket.sh)](https://mortgage.thicket.sh/) – Mortgage payment, amortization, refinance, and affordability calculators with full schedules.
+- [Loan Calculator (thicket.sh)](https://loan.thicket.sh/) – Loan payment, interest, payoff, and debt-consolidation calculators for personal, auto, and student loans.
+- [ETF Comparison (thicket.sh)](https://etf.thicket.sh/) – Side-by-side ETF comparison for expense ratios, holdings, and performance across popular index funds.
 
 ## Corporate Finance
 
