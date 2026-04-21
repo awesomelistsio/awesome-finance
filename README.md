@@ -105,6 +105,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [iGotFomo](https://igotfomo.com/) – AI-powered stock screener with convergence signals across 6,000+ stocks, options flow, backtesting, and free embeddable ticker widget.
 
 ## Modeling, Analytics & Tools
 
