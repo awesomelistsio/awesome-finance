@@ -113,6 +113,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [Insider Alerts](https://insideralerts.io/) – SEC Form 4 insider buying and selling alerts with ticker watchlists, searchable public filings, and Telegram notifications.
 
 ## Regulation & Compliance
 
