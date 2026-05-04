@@ -97,6 +97,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
+- [AI Invoice Maker](https://ainvoicemaker.com/) – Free invoice generator with AI-powered payment reminders for freelancers and small businesses; 50+ currencies, no signup, no watermark.
 
 ## Financial Data & APIs
 
