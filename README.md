@@ -52,6 +52,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Pay Raise Calculator](https://payraise-calc.com/) – Raise impact calculator: new salary, after-tax take-home, real inflation-adjusted raise, and 5-year stay-vs-switch projection.
+- [PTO Calculator](https://pto-calc.com/) – PTO accrual, balance, and state-by-state termination payout for US employees.
 
 ## Corporate Finance
 
@@ -59,6 +61,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Valuation Models](https://www.wallstreetprep.com/knowledge/valuation-methods/) – Guides to DCF, comparables, and precedent transactions.
 - [Mergers & Acquisitions Guide](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) – Overview of M&A concepts and structures.
 - [Capital Structure Theory](https://www.investopedia.com/terms/c/capitalstructure.asp) – Debt and equity financing fundamentals.
+- [Equity Dilution Calculator](https://equitydilution-calculator.com/) – Free cap-table modeling tool with SAFE conversions, option-pool shuffle, and multi-round waterfall analysis.
 
 ## Quantitative Finance
 
@@ -113,6 +116,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [Cap Rate Calculator](https://caprate-calc.com/) – Real-estate capitalization rate calculator with NOI builder, three calculation modes (find cap rate, find max price, find target NOI), and benchmarks by property type and market tier.
 
 ## Regulation & Compliance
 
