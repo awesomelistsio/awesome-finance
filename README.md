@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [CalcFi](https://calcfi.app) – Free financial calculators (mortgage, tax, retirement, salary, debt, investing) with every number sourced to public US federal data (FRED, BLS, IRS, HUD).
 
 ## Corporate Finance
 
