@@ -105,6 +105,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [bigtech-ai-stakes](https://github.com/YichengYang-Ethan/bigtech-ai-stakes) – Open dataset of U.S. public-company equity stakes in Anthropic and OpenAI, sourced from primary SEC filings, court records, and press releases. Confidence-tagged.
 
 ## Modeling, Analytics & Tools
 
