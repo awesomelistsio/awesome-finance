@@ -52,6 +52,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Levyio](https://levyio.com/) – Free US tax calculators by state and city, including income, property, and sales tax with 2026 IRS-aligned methodology.
+- [Amortio](https://www.amortio.com/) – Free mortgage calculators using Freddie Mac PMMS rate data, with PITI breakdown, FHA/VA/USDA loan eligibility, and refinance analysis.
 
 ## Corporate Finance
 
