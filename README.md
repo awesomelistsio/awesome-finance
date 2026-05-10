@@ -100,7 +100,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Financial Data & APIs
 
-- [Adanos Market Sentiment](https://api.adanos.org/) – API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket.
+- [Adanos Market Sentiment](https://adanos.org/) – API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
