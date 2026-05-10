@@ -100,11 +100,12 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Financial Data & APIs
 
-- [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
+- [Adanos Market Sentiment](https://api.adanos.org/) – API-first stock sentiment data from Reddit, X / FinTwit, News, and Polymarket.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
-- [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
-- [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
+- [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
+- [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 
 ## Modeling, Analytics & Tools
 
