@@ -100,6 +100,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Financial Data & APIs
 
+- [Adanos](https://adanos.org/) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
