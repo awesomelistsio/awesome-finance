@@ -105,6 +105,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [Sharpe](https://www.sharpe.ai/docs/free-api) – Crypto market data API for funding rates, derivatives, arbitrage, narratives, exchange listings, and news.
 
 ## Modeling, Analytics & Tools
 
