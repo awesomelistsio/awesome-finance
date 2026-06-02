@@ -97,6 +97,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
+- [PDFExcel](https://pdfexcel.ai/) – AI tool that converts PDFs (including scanned and photographed documents) into Excel, CSV, or Google Sheets for accountants and bookkeepers.
 
 ## Financial Data & APIs
 
