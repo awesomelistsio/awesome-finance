@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Square](https://squareup.com/) – Point-of-sale and payment processing tools.
 - [Plaid](https://plaid.com/) – API for connecting applications to financial accounts.
 - [Wise](https://wise.com/) – International money transfer and multi-currency accounts.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring and identity verification for AI agent wallets on Solana. Free MCP tools for agent preflight checks; paid signed trust receipts via x402 micropayments.
 
 ## Banking & Financial Infrastructure
 
