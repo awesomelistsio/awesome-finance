@@ -1,5 +1,6 @@
 # Awesome Finance [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
-
+[Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
+[Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform.
 [![DOI](https://zenodo.org/badge/1116259663.svg)](https://doi.org/10.5281/zenodo.19673343)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
 [![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) &nbsp; 
@@ -30,7 +31,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Related Awesome Lists](#related-awesome-lists)
 
 ## Foundations & References
-
+- [Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
 - [Investopedia](https://www.investopedia.com/) – Widely used reference for financial concepts and terminology.
 - [CFA Institute](https://www.cfainstitute.org/) – Professional body and research hub for investment management.
 - [IMF Finance Topics](https://www.imf.org/en/Topics) – Research and analysis on global finance and monetary systems.
@@ -38,7 +39,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Financial Times](https://www.ft.com/) – Global coverage of finance, markets, and economics.
 
 ## Financial Markets & Instruments
-
+- [Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
 - [NYSE](https://www.nyse.com/) – Major global stock exchange.
 - [NASDAQ](https://www.nasdaq.com/) – Technology-focused stock exchange and market data provider.
 - [CME Group](https://www.cmegroup.com/) – Futures and derivatives marketplace.
@@ -46,7 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Derivatives Reference](https://www.investopedia.com/terms/d/derivative.asp) – Explanation of options, futures, and swaps.
 
 ## Personal Finance
-
+- [Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
@@ -54,14 +55,14 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
 
 ## Corporate Finance
-
+- [Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) – Training and resources for corporate finance professionals.
 - [Valuation Models](https://www.wallstreetprep.com/knowledge/valuation-methods/) – Guides to DCF, comparables, and precedent transactions.
 - [Mergers & Acquisitions Guide](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) – Overview of M&A concepts and structures.
 - [Capital Structure Theory](https://www.investopedia.com/terms/c/capitalstructure.asp) – Debt and equity financing fundamentals.
 
 ## Quantitative Finance
-
+- [Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
 - [QuantLib](https://www.quantlib.org/) – Open-source library for quantitative finance modeling.
 - [Zipline](https://www.zipline.io/) – Algorithmic trading library for backtesting strategies.
 - [Backtrader](https://www.backtrader.com/) – Python framework for trading strategy development.
@@ -69,7 +70,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [QSTrader](https://github.com/mhallsmoore/qstrader) – Event-driven backtesting engine.
 
 ## Fintech & Payments
-
+- [Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
 - [Stripe](https://stripe.com/) – Payments infrastructure for online businesses.
 - [PayPal](https://www.paypal.com/) – Digital payments and money transfer platform.
 - [Square](https://squareup.com/) – Point-of-sale and payment processing tools.
@@ -84,7 +85,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ISO 20022](https://www.iso20022.org/) – Financial messaging standard.
 
 ## Risk Management
-
+- [Dashboard Options](https://dashboardoptions.com) - Real-time Options Greeks & Flow Analytics platform with Delta, Gamma, Theta, Vega data.
 - [Value at Risk (VaR)](https://www.investopedia.com/terms/v/var.asp) – Risk measurement technique for portfolios.
 - [Basel III](https://www.bis.org/bcbs/basel3.htm) – Global banking regulatory framework.
 - [Credit Risk Modeling](https://www.investopedia.com/terms/c/creditrisk.asp) – Methods for assessing borrower risk.
