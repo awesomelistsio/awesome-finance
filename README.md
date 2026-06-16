@@ -46,6 +46,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Derivatives Reference](https://www.investopedia.com/terms/d/derivative.asp) – Explanation of options, futures, and swaps.
 
 ## Personal Finance
+- [Mini Tools UK Tax Calculator](https://mini-tools.uk/tax) – Estimates UK income tax and take-home pay with clear assumptions.
 
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
