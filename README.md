@@ -106,6 +106,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [ReceiptEdit US Sales Tax 2026](https://github.com/receiptedit/us-sales-tax-2026) – Free MIT-licensed dataset and REST API of 2026 US state sales tax rates, lodging taxes, and grocery rules for all 50 states.
 
 ## Modeling, Analytics & Tools
 
