@@ -95,6 +95,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [IFRS](https://www.ifrs.org/) – International Financial Reporting Standards.
 - [GAAP](https://www.fasb.org/) – U.S. Generally Accepted Accounting Principles.
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
+- [Digital Product Seller Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample) – MIT-licensed CSV worksheet for small digital product sellers to record revenue, platform fees, product costs, after-sales issues, refund reasons, and gross margin.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
 
