@@ -111,6 +111,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Modeling, Analytics & Tools
 
 - [Excel for Finance](https://support.microsoft.com/excel) – Core modeling tool for finance professionals.
+- [Find My Moat](https://www.findmymoat.com/) - Directory for comparing investment research tools, stock analysis platforms, screeners, and portfolio trackers.
 - [Python for Finance](https://www.python.org/) – Programming ecosystem for financial analysis.
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
