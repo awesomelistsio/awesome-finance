@@ -123,6 +123,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FATF](https://www.fatf-gafi.org/) – Global anti-money laundering standards.
 - [KYC & AML Overview](https://www.investopedia.com/terms/k/knowyourclient.asp) – Customer due diligence frameworks.
 - [GDPR for Finance](https://gdpr.eu/) – Data protection requirements affecting financial institutions.
+- [Texas Bond Verify](https://verify.quantumsurety.bond) - Free public API and verification tool for Texas contractor and notary surety bond compliance status; covers 816K+ TDLR-licensed contractors and 66K+ notaries. Published by Quantum Surety Bond Watch.
 
 ## Learning Resources
 
