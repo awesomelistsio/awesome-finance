@@ -115,6 +115,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [Warren Buffett Life Simulator](https://ordinarymantrying.com/tools/buffett-simulator.html) – Face 7 pivotal decisions from Buffett's career blind, then see what he actually chose. Free.
+- [Value Investing Calculator](https://ordinarymantrying.com/tools/value-investing-calculator.html) – Buffett-style DCF intrinsic value estimator. Free, browser-based.
+- [10x Stock Screener](https://ordinarymantrying.com/tools/10x-stock-screener.html) – Filter stocks by moat strength, management quality, and margin of safety. Free.
 
 ## Regulation & Compliance
 
