@@ -107,6 +107,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [FilingFirehose Forensic](https://filingfirehose.com/forensic) – SEC filings risk-scoring API and per-ticker pages; surfaces bankruptcy, delisting, restatement, officer-departure, and dilution signals with verifiable EDGAR accession numbers.
 
 ## Modeling, Analytics & Tools
 
