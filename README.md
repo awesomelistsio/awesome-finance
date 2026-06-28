@@ -102,6 +102,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Adanos](https://api.adanos.org/docs) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for stocks, ETFs, crypto, forex, bonds, and macroeconomic datasets.
+- [FilingFirehose](https://filingfirehose.com/) – SEC EDGAR API and free per-ticker forensic risk score (cyber, dilution, restatement, officer departure, bankruptcy signals) from 8-K, 10-K, 10-Q, S-3 filings.
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
