@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Acalcia](https://acalcia.com/) – Free no-signup suite of in-browser money and tax calculators for US freelancers, online sellers, and creators (self-employment and quarterly tax, marketplace fees, pricing and margins, invoicing).
 
 ## Corporate Finance
 
