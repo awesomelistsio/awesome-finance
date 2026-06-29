@@ -74,6 +74,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [PayPal](https://www.paypal.com/) – Digital payments and money transfer platform.
 - [Square](https://squareup.com/) – Point-of-sale and payment processing tools.
 - [Plaid](https://plaid.com/) – API for connecting applications to financial accounts.
+- [open-banking.io](https://open-banking.io/) – EU open banking API for account aggregation and payment initiation without eIDAS certificates.
 - [Wise](https://wise.com/) – International money transfer and multi-currency accounts.
 
 ## Banking & Financial Infrastructure
