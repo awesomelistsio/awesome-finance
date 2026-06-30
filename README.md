@@ -107,6 +107,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [SiftingIO](https://sifting.io/) – Real-time and historical market data APIs for stocks, forex, crypto, commodities, DEX datasets, fundamentals, market news, and market hours.
 
 ## Modeling, Analytics & Tools
 
