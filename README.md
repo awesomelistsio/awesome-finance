@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Personal Finance Whitepaper](https://nontravis.github.io/personal-finance-whitepaper/) – Free, multilingual guide to building wealth with a 3-pillar Cashflow/Investment/Savings framework.
 
 ## Corporate Finance
 
