@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Threshold](https://threshold-calculator.com/) – Free rent-vs-buy calculator comparing after-tax net worth over a chosen horizon, with house-hacking and tax-shield modeling.
 
 ## Corporate Finance
 
