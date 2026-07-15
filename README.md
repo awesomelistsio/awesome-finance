@@ -50,6 +50,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
+- [LE TEEN College ROI Calculator](https://le-teen.com/worth-it) – Free calculator and rankings comparing lifetime return on investment across US colleges and majors, built on FREOPP, IPEDS, and BEA data.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
 
