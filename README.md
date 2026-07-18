@@ -89,6 +89,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Basel III](https://www.bis.org/bcbs/basel3.htm) – Global banking regulatory framework.
 - [Credit Risk Modeling](https://www.investopedia.com/terms/c/creditrisk.asp) – Methods for assessing borrower risk.
 - [Stress Testing](https://www.investopedia.com/terms/s/stresstesting.asp) – Financial resilience analysis techniques.
+- [Risk Management in Trading](https://arapov.trade/en/freestudying/risk-management) – Free guide on risk management as the core of a profitable trading system.
 
 ## Accounting & Reporting
 
@@ -135,6 +136,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Aswath Damodaran Valuation](https://pages.stern.nyu.edu/~adamodar/) – Valuation theory and datasets.
 - [Financial Modeling Guide](https://corporatefinanceinstitute.com/resources/financial-modeling/) – Practical modeling techniques.
 - [Behavioral Finance Overview](https://www.investopedia.com/terms/b/behavioralfinance.asp) – Psychology-driven finance concepts.
+- [Trading Psychology](https://arapov.trade/en/freestudying/trading-psychology) – Free guide covering cognitive biases, fear, greed, and discipline in trading.
 
 ### Courses
 - *Corporate Finance* – Capital budgeting, valuation, and financing.
