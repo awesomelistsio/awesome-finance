@@ -153,7 +153,13 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
 
+
+
 Pull requests that do not adhere to the contribution guidelines may be closed.
+
+
+- [BudgetWise AI](https://microsoft.com) - Lightweight, privacy-focused Windows PWA for desktop budgeting featuring voice-command expense logging and secure local data storage.
+
 
 ## License
 
