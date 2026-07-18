@@ -44,7 +44,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CME Group](https://www.cmegroup.com/) – Futures and derivatives marketplace.
 - [Bonds & Fixed Income Guide](https://www.investopedia.com/terms/f/fixedincome.asp) – Overview of fixed-income securities.
 - [Derivatives Reference](https://www.investopedia.com/terms/d/derivative.asp) – Explanation of options, futures, and swaps.
-
+- [Derivatives, Futures and Spot Explained](https://arapov.trade/en/freestudying/derivatives-futures-spot) – Free guide to instrument types and how they differ.
 ## Personal Finance
 
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
