@@ -130,6 +130,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Khan Academy Finance](https://www.khanacademy.org/economics-finance-domain) – Introductory finance and investing lessons.
 - [CFA Program Curriculum](https://www.cfainstitute.org/programs/cfa/curriculum) – Comprehensive investment education.
 - [Coursera Finance Courses](https://www.coursera.org/browse/business/finance) – University-backed finance programs.
+- [Trading for Beginners](https://arapov.trade/en/freestudying/trading-for-beginners) – Free introductory course covering first concepts for someone with no prior trading experience.
 
 ### Guides
 - [Aswath Damodaran Valuation](https://pages.stern.nyu.edu/~adamodar/) – Valuation theory and datasets.
