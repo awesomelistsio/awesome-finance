@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [Nutilz Paycheck Calculator](https://nutilz.com/paycheck-calculator) – Free 2025 take-home pay estimator; calculates net pay after federal income tax and FICA from gross pay, pay period, and filing status.
 
 ## Corporate Finance
 
