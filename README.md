@@ -97,6 +97,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
+- [Conyso Ledger](https://conyso.com/ledger.html?utm_source=github&utm_medium=directory&utm_campaign=listing) – Free financial statement analysis tool computing 43 financial ratios plus an Altman Z-Score.
 
 ## Financial Data & APIs
 
