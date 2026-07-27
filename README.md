@@ -101,6 +101,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Financial Data & APIs
 
 - [Adanos](https://api.adanos.org/docs) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
+- [DepthFeed Prediction Market Liquidity Benchmark](https://depthfeed.com/arena/liquidity) – Open CC BY 4.0 order-book dataset with 34,560 lifecycle-aligned observations across Polymarket, Kalshi, Predict.fun via Binance Wallet, and Limitless.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for stocks, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
