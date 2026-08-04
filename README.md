@@ -109,6 +109,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
 
 ## Modeling, Analytics & Tools
+* [Pineify](https://pineify.app/) – AI-assisted TradingView strategy development and analytics toolkit with Pine Script generation, visual rule building, parameter optimization, screeners, and backtest reports.
 
 - [Excel for Finance](https://support.microsoft.com/excel) – Core modeling tool for finance professionals.
 - [Python for Finance](https://www.python.org/) – Programming ecosystem for financial analysis.
