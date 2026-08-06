@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [QuantLib](https://www.quantlib.org/) – Open-source library for quantitative finance modeling.
 - [Zipline](https://www.zipline.io/) – Algorithmic trading library for backtesting strategies.
 - [Backtrader](https://www.backtrader.com/) – Python framework for trading strategy development.
+- [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) – PyTorch research stack for multi-factor modeling, portfolio optimization, and reproducible backtesting.
 - [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/) – Portfolio optimization library.
 - [QSTrader](https://github.com/mhallsmoore/qstrader) – Event-driven backtesting engine.
 
