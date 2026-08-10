@@ -34,6 +34,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Investopedia](https://www.investopedia.com/) – Widely used reference for financial concepts and terminology.
 - [CFA Institute](https://www.cfainstitute.org/) – Professional body and research hub for investment management.
 - [IMF Finance Topics](https://www.imf.org/en/Topics) – Research and analysis on global finance and monetary systems.
+- [Offshore Black Book](https://offshoreblackbook.com) – Research and analysis on international tax and corporate structures.
 - [World Bank Finance](https://www.worldbank.org/en/topic/finance) – Data and policy research on financial systems.
 - [Financial Times](https://www.ft.com/) – Global coverage of finance, markets, and economics.
 
