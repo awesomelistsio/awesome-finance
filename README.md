@@ -101,6 +101,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Financial Data & APIs
 
 - [Adanos](https://api.adanos.org/docs) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
+- [AxionQuant](https://axionquant.com/) – Unified financial data API for market prices, fundamentals, disclosures, macroeconomic, and alternative data, with a Python SDK ([axionquant-sdk](https://pypi.org/project/axionquant-sdk/)).
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for stocks, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
