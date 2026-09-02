@@ -100,6 +100,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Financial Data & APIs
 
+- [0xArchive](https://0xarchive.io/) – Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.
 - [Adanos](https://api.adanos.org/docs) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for stocks, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
