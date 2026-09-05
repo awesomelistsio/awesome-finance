@@ -1,4 +1,4 @@
-# Awesome Finance [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Finance [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1116259663.svg)](https://doi.org/10.5281/zenodo.19673343)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -143,11 +143,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Economics](https://github.com/awesomelistsio/awesome-economics)
-- [Awesome Fintech](https://github.com/awesomelistsio/awesome-fintech)
-- [Awesome Data Science](https://github.com/awesomelistsio/awesome-data-science)
-- [Awesome APIs](https://github.com/awesomelistsio/awesome-apis)
-- [Awesome SaaS](https://github.com/awesomelistsio/awesome-saas)
+- [Awesome Economics](https://github.com/brandonhimpfen/awesome-economics)
+- [Awesome Fintech](https://github.com/brandonhimpfen/awesome-fintech)
+- [Awesome Data Science](https://github.com/brandonhimpfen/awesome-data-science)
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis)
+- [Awesome SaaS](https://github.com/brandonhimpfen/awesome-saas)
 
 ## Contribute
 
